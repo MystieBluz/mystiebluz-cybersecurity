@@ -1,4 +1,4 @@
-## <div align="center"><em>Misty D. Duhart: A journey from Stage & TV into Web Development & Design</em></div> 
+<!-- ## <div align="center"><em>Misty D. Duhart: A journey from Stage & TV into Web Development & Design</em></div>  -->
 <!-- Main header image -->
 <div id="header" align="center">
   <img src="https://tenor.com/view/aesthetic-room-gif-22487936.gif" width="5000" height="550">
