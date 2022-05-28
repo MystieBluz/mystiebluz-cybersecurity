@@ -1,4 +1,4 @@
-# :computer: A Journey from Stage and TV to Web Development + Design `#f03c15` :computer: 
+# :computer: ![`#f03c15`](A Journey from Stage and TV to Web Development + Design) :computer: 
 
 ![Transparent Logo](https://user-images.githubusercontent.com/98304659/170842773-a00af9cb-3661-4b27-aedf-fc4e593e1107.png)
 
