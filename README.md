@@ -1,5 +1,5 @@
+[](https://tenor.com/biK7s.gif)
 # :computer: A Journey from Stage and TV to Web Development + Design :computer: 
-<div class="tenor-gif-embed" data-postid="16825020" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/notebook-pc-laptop-work-pink-gif-16825020">Notebook Pc GIF</a>from <a href="https://tenor.com/search/notebook-gifs">Notebook GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full stack web developer and web designer student from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding grew from my profound interest in any and everything technology based. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community. 
 
