@@ -1,6 +1,7 @@
 # :computer: A Journey from Stage and TV to Web Development + Design :computer: 
 
-![Original Logo](https://user-images.githubusercontent.com/98304659/170843295-c15640f1-9e4e-4abc-af84-9f85dba1bc53.png)
+![Transparent Logo](https://user-images.githubusercontent.com/98304659/170843327-f35f96e1-0e1d-4a79-91fa-88da9e04d485.png)
+
 
 
 Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full stack web developer and web designer student from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding grew from my profound interest in any and everything technology based. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community. 
@@ -11,6 +12,7 @@ Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full st
 - How to reach me: misty.duhart@gmail.com
 - Fun fact: I've been acting on stage and TV for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
 
+###########################################################################################################################################
  :notebook_with_decorative_cover: SKILLS :notebook_with_decorative_cover:
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
