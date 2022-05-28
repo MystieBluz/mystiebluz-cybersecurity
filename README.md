@@ -11,8 +11,8 @@ Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full st
 - I’m seeking internship/ entry-level front-end developer/web designer position within a creative tech compnay.
 - How to reach me: misty.duhart@gmail.com
 - Fun fact: I've been acting on stage and TV for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
-
-###########################################################################################################################################
+<br>
+<br>
  :notebook_with_decorative_cover: SKILLS :notebook_with_decorative_cover:
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
