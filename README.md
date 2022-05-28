@@ -1,3 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100" height="50">
+  <text font-size="16" x="10" y="20">
+    <tspan fill="red">Hello</tspan>,
+    <tspan fill="green">world</tspan>!
+  </text>
+</svg>
 # :computer: <tspan fill="red">A Journey from Stage and TV to Web Development + Design</tspan> :computer: 
 
 ![Transparent Logo](https://user-images.githubusercontent.com/98304659/170842773-a00af9cb-3661-4b27-aedf-fc4e593e1107.png)
