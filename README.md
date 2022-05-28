@@ -1,10 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100" height="50">
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
-  </text>
-</svg>
-# :computer: <tspan fill="red">A Journey from Stage and TV to Web Development + Design</tspan> :computer: 
+# :computer: A Journey from Stage and TV to Web Development + Design :computer: 
 
 ![Transparent Logo](https://user-images.githubusercontent.com/98304659/170842773-a00af9cb-3661-4b27-aedf-fc4e593e1107.png)
 
@@ -19,8 +13,7 @@ Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full st
  :notebook_with_decorative_cover: SKILLS :notebook_with_decorative_cover:
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+&nbsp; <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
