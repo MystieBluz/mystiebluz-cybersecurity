@@ -2,8 +2,6 @@
 
 ![Transparent Logo](https://user-images.githubusercontent.com/98304659/170843327-f35f96e1-0e1d-4a79-91fa-88da9e04d485.png)
 
-
-
 Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full stack web developer and web designer student from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding grew from my profound interest in any and everything technology based. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community. 
 
 - I’m currently working on building games and web pages.
@@ -12,14 +10,13 @@ Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full st
 - How to reach me: misty.duhart@gmail.com
 - Fun fact: I've been acting on stage and TV for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
 <br>
-<br>
  :notebook_with_decorative_cover: SKILLS :notebook_with_decorative_cover:
-
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp; <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+&nbsp; ]
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+&nbsp;]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+&nbsp;]
 <img src="https://img.shields.io/badge/React-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
