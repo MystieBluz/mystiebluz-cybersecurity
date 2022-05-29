@@ -26,9 +26,9 @@ Greetings, I'm [Misty Duhart](https://mduhart82.github.io/md-techie/), a full st
 
 - I’m currently working on building games and web pages.
 - I’m always studying Javascript | MySQL | Adobe Photoshop | React | Typescript 
-- I’m seeking internship/ entry-level front-end developer/web designer position within a creative tech compnay.
+- I’m seeking internship/ entry-level front-end developer/web designer opportunities within a creative tech compnay.
 - How to reach me: misty.duhart@gmail.com
-- Fun fact: I've been acting on stage and TV for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
+- Fun fact: I've been acting on Stages and TV/Films for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
 
 
 <div align="center"> :notebook_with_decorative_cover: SKILLS :notebook_with_decorative_cover:</div>
