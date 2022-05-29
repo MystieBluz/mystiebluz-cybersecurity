@@ -1,4 +1,4 @@
-<!-- ## <div align="center"><em>Misty D. Duhart: A journey from Stage & TV into Web Development & Design</em></div>  -->
+#### <div align="right"><em>...strolling through the beautiful, chaotic world that is web development.</em></div> 
 <!-- Main header image -->
 <div id="header" align="center">
   <img src="https://tenor.com/view/aesthetic-room-gif-22487936.gif" width="5000" height="550">
@@ -6,13 +6,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/misty-duhart">
-    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/mystie_smith/">
-    <img src="https://img.shields.io/badge/Instagram-brown?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-brown?style=for-the-badge&logo=instagram&logoColor=white" target="blank" alt="Instagram Badge"/>
   </a>
   <a href="https://mstechiecom.wordpress.com/">
-    <img src="https://img.shields.io/badge/Wordpress-pink?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank" alt="WordPress Badge"/>
+    <img src="https://img.shields.io/badge/Wordpress-brown?style=for-the-badge&logo=wordpress&logoColor=white" target="blank" alt="WordPress Badge"/>
   </a>
 </div>
 <!-- View Counter -->
