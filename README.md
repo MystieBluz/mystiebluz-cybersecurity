@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/mystie_smith/">
     <img src="https://img.shields.io/badge/Instagram-brown?style=for-the-badge&logo=instagram&logoColor=white" target="blank" alt="Instagram Badge"/>
   </a>
-  <a href="https://mstechiecom.wordpress.com/">
-    <img src="https://img.shields.io/badge/Wordpress-brown?style=for-the-badge&logo=wordpress&logoColor=white" target="blank" alt="WordPress Badge"/>
-  </a>
 </div>
 <!-- View Counter -->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mduhart82&style=flat-square&color=yellow" alt="View Counter"/></div>
