@@ -17,7 +17,7 @@
 <br>
 
 
-Greetings, I'm [Misty Smith](https://mystiebluz.github.io/md-techie/), a full stack web developer and web designer student from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding grew from my profound interest in any and everything technology based. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community.
+Greetings, I'm [Misty Smith](https://mystiebluz.github.io/md-techie/), a front end developer and aspiring web designer from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding grew from my profound interest in any and everything technology based. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community.
 
 
 
