@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/misty-duhart">
+  <a href="https://www.linkedin.com/in/mystie-bluz/">
     <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/mystie_smith/">
@@ -24,7 +24,7 @@ Greetings, I'm [Misty Duhart](https://mystiebluz.github.io/md-techie/), a full s
 - I’m currently working on building games and web pages.
 - I’m always studying Javascript | MySQL | Adobe Photoshop | React | Typescript 
 - I’m seeking internship/ entry-level front-end developer/web designer opportunities within a creative tech compnay.
-- How to reach me: misty.duhart@gmail.com
+- How to reach me: mystiebluz@gmail.com
 - Fun fact: I've been acting on Stages and TV/Film sets for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
 
 
