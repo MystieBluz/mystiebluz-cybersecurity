@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/mystie-bluz/">
     <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/mystie_smith/">
-    <img src="https://img.shields.io/badge/Instagram-brown?style=for-the-badge&logo=instagram&logoColor=white" target="blank" alt="Instagram Badge"/>
-  </a>
 </div>
 <!-- View Counter -->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mduhart82&style=flat-square&color=yellow" alt="View Counter"/></div>
