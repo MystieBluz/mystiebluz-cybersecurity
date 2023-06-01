@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  *linkedin currently inactive*
+  <!-- LinkedIn Currently Inactive -->
   <a href="https://www.linkedin.com/in/mystie-bluz/"
     <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" alt="LinkedIn Badge"/>
   </a
