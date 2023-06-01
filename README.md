@@ -4,12 +4,7 @@
   <img src="https://tenor.com/view/aesthetic-room-gif-22487936.gif" width="5000" height="550">
 </div>
 
-<div id="badges" align="center">
-  <!-- LinkedIn Currently Inactive -->
-  <a href="https://www.linkedin.com/in/mystie-bluz/"
-    <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" alt="LinkedIn Badge"/>
-  </a
-</div>
+
 <!-- View Counter -->
 <div align="center"><img src="https://komarev.com/ghpvc/?username=mduhart82&style=flat-square&color=yellow" alt="View Counter"/></div>
 <br>
