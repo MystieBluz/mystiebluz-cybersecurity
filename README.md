@@ -14,13 +14,12 @@
 <br>
 
 
-Greetings, I'm [Misty Smith](https://mystiebluz.github.io/md-techie/), a front end developer and aspiring web designer from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding grew from my profound interest in any and everything technology based. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community.
+Greetings, I'm [Misty Duhart](https://mystiebluz.github.io/md-techie/), an aspiring front end developer and web designer from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding sparked during the pandemic and my profound interest continued to grow. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community.
 
 
 
 - I’m currently working on building games and web pages.
-- I’m always studying Javascript | MySQL | Adobe Photoshop | React | Typescript 
-- I’m seeking internship/ entry-level front-end developer/web designer opportunities within a creative tech compnay.
+- I’m always studying Javascript | SQL | CSS | React | Typescript 
 - How to reach me: mystiebluz@gmail.com
 - Fun fact: I've been acting on Stages and TV/Film sets for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
 
