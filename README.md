@@ -45,11 +45,7 @@ I’m transitioning into cybersecurity with a strong foundation in **analysis, p
 
 ---
 
-## 📬 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mystiebluz)  
-- 🐙 [GitHub](https://github.com/mystiebluz)  
-- ✉️ (mystiebluz@gmail.com)  
 
 ---
 
