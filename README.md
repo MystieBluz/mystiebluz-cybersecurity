@@ -10,12 +10,13 @@
 <br>
 
 
-Greetings, I'm [Misty Duhart](https://mystiebluz.github.io/md-techie/), an aspiring front end developer and web designer from Miami, FL. However, I currently reside in Mcdonough, GA with my family. My passion for learning coding sparked during the pandemic and my profound interest continued to grow. The world is increasingly becoming more and more digitized and I desire to contribute my enthusiasm and efforts to the technology community.
+Greetings, I'm [Misty Smith](https://mystiebluz.github.io/md-techie/), Currently exploring the world of Cybersecurity Analytics, building hands-on projects in threat detection, log analysis, and security best practices. This space is where I share my learning journey and growth—welcome, and feel free to connect or explore my work!
 
 
 
-- I’m currently working on building games and web pages.
-- I’m always studying Javascript | SQL | CSS | React | Typescript 
+- I’m currently finishing up the Coursera Google Cybersecurity Certification.
+- Planning on projects to build to add to my portfolio.
+- Constructing a study guide for the CompTIA Security+ exam 
 - How to reach me: mystiebluz@gmail.com
 - Fun fact: I've been acting on Stages and TV/Film sets for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
 
