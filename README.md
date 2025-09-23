@@ -1,27 +1,27 @@
 # 🔐 Cybersecurity Portfolio  
 
-Welcome! 👋 I’m building my career in **Cybersecurity Analysis** and this portfolio highlights my hands-on projects where I practice security fundamentals, monitoring, and risk management.  
+Welcome! 👋 I’m building my career in **Cybersecurity Analysis**, and this portfolio showcases hands-on projects where I practice **network security, log monitoring, and web application security**.  
 
-Each project is documented like a professional case study — with objectives, methodology, results, and key takeaways. This way, you can see not just the tools I used, but also **how I think and solve problems** like a security analyst.  
+Each project is documented like a professional case study — with objectives, methodology, findings, and key takeaways — so you can see both my **technical skills** and **problem-solving approach**.  
 
 ---
 
-## 📂 Projects (Pending)  
+## 📂 Projects (PENDING)
 
 ### 🏡 [Home Network Security Hardening](./home-network-security/README.md)  
-- Performed a vulnerability assessment of a home Wi-Fi network using **Nmap**.  
-- Identified open ports, weak encryption, and IoT risks.  
-- Applied fixes (firmware updates, WPA3, firewall configs) and verified improvements.  
+- Conducted a vulnerability assessment of a home Wi-Fi network using **Nmap**.  
+- Applied security improvements: upgraded Wi-Fi encryption to WPA3, updated firmware, configured firewall rules, and segmented IoT devices.  
+- Validated improvements through post-hardening scans.  
 
 ### 📊 [Security Log Analysis & SIEM Simulation](./siem-log-analysis/README.md)  
-- Collected and ingested **Windows security logs** into a free SIEM platform.  
-- Detected suspicious login patterns (failed brute force attempts).  
-- Built detection queries, dashboards, and documented incident response actions.  
+- Collected Windows logs and ingested them into **Splunk Free**.  
+- Detected suspicious login behavior (simulated brute-force attacks) with custom dashboards and alerts.  
+- Gained hands-on experience in **log analysis, SIEM dashboards, and incident response** workflows.  
 
 ### 🌐 [Secure Web Application Walkthrough (OWASP Top 10 Lite)](./owasp-web-app/README.md)  
-- Explored common web app vulnerabilities in **OWASP Juice Shop**.  
-- Safely demonstrated **SQL Injection** and **Cross-Site Scripting (XSS)**.  
-- Recommended secure coding practices (parameterized queries, sanitization, CSP).  
+- Explored vulnerabilities in **OWASP Juice Shop**, including SQL Injection and XSS.  
+- Demonstrated safe proof-of-concepts and recommended developer-friendly remediations.  
+- Built a practical understanding of secure coding practices aligned with OWASP Top 10.  
 
 ---
 
@@ -37,11 +37,11 @@ Each project is documented like a professional case study — with objectives, m
 
 ## 🌟 About Me  
 
-I’m transitioning into cybersecurity with a strong foundation in **analysis, problem-solving, and continuous learning**. My projects reflect real-world security workflows, from risk assessment and monitoring to remediation and secure coding awareness.  
+I’m transitioning into cybersecurity with a strong foundation in **analysis, problem-solving, and continuous learning**.  
 
-- 💻 Interested in **threat detection, incident response, and security analysis**.  
-- 📚 Currently fininshing up the Coursera Googe Cybersecurity Analyst Certification while studying for **CompTIA Security+**.  
-- 🌐 Exploring ways to connect security with real-world business needs.  
+- 💻 Focus: Threat detection, incident response, and security analysis  
+- 📚 Currently fininshing up the Coursera Googe Cybersecurity Analyst Certification while studying for **CompTIA Security+**
+- 🌐 Skills: Network security, log monitoring, vulnerability assessment, web application security  
 
 ---
 
@@ -52,6 +52,5 @@ I’m transitioning into cybersecurity with a strong foundation in **analysis, p
 - ✉️ (mystiebluz@gmail.com)  
 
 ---
-✨ Thanks for visiting my portfolio! I’m excited to keep growing, and in the next few months I’ll be adding more projects in **threat hunting, vulnerability management, and incident reporting**. Stay tuned 🚀  
 
-
+✨ Thanks for visiting my portfolio! More projects in **threat hunting, vulnerability management, and incident reporting** are coming soon 🚀
