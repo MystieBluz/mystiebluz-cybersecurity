@@ -1,44 +1,57 @@
-#### <div align="right"><em> FUTURE CYBERSECURITY ANALYST</em></div> 
-<!-- Main header image -->
-<div id="header" align="center">
-  <img src="https://tenor.com/view/aesthetic-room-gif-22487936.gif" width="5000" height="550">
-</div>
+# 🔐 Cybersecurity Portfolio  
 
+Welcome! 👋 I’m building my career in **Cybersecurity Analysis** and this portfolio highlights my hands-on projects where I practice security fundamentals, monitoring, and risk management.  
 
-<!-- View Counter -->
-<div align="center"><img src="https://komarev.com/ghpvc/?username=mduhart82&style=flat-square&color=yellow" alt="View Counter"/></div>
-<br>
+Each project is documented like a professional case study — with objectives, methodology, results, and key takeaways. This way, you can see not just the tools I used, but also **how I think and solve problems** like a security analyst.  
 
+---
 
-Greetings, I'm [Misty Smith](https://www.linkedin.com/in/mystiebluz/), Currently exploring the world of Cybersecurity Analytics, building hands-on projects in threat detection, log analysis, and security best practices. This space is where I share my learning journey and growth—welcome, and feel free to connect or explore my work!
+## 📂 Projects (Pending)  
 
+### 🏡 [Home Network Security Hardening](./home-network-security/README.md)  
+- Performed a vulnerability assessment of a home Wi-Fi network using **Nmap**.  
+- Identified open ports, weak encryption, and IoT risks.  
+- Applied fixes (firmware updates, WPA3, firewall configs) and verified improvements.  
 
+### 📊 [Security Log Analysis & SIEM Simulation](./siem-log-analysis/README.md)  
+- Collected and ingested **Windows security logs** into a free SIEM platform.  
+- Detected suspicious login patterns (failed brute force attempts).  
+- Built detection queries, dashboards, and documented incident response actions.  
 
-- I’m currently finishing up the Coursera Google Cybersecurity Certification.
-- Planning on projects to build to add to my portfolio.
-- Constructing a study guide for the CompTIA Security+ exam 
-- How to reach me: mystiebluz@gmail.com
-- Fun fact: I've been acting on Stages and TV/Film sets for over 16 years! [IMdB](https://www.imdb.com/name/nm2722124/)
+### 🌐 [Secure Web Application Walkthrough (OWASP Top 10 Lite)](./owasp-web-app/README.md)  
+- Explored common web app vulnerabilities in **OWASP Juice Shop**.  
+- Safely demonstrated **SQL Injection** and **Cross-Site Scripting (XSS)**.  
+- Recommended secure coding practices (parameterized queries, sanitization, CSP).  
 
+---
 
-<div align="center"> :notebook_with_decorative_cover: SKILLS :notebook_with_decorative_cover:</div>
-<br>
-<div align="center">
- <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp; 
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Sass-282C34?logo=jest&logoColor=C21325" alt="Sass logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/React-282C34?logo=css3&logoColor=1572B6" alt="React logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Git-282C34?logo=fastlane&logoColor=00F200" alt="Git logo" title="Fastlane" height="25" />
-&nbsp;
-</div>
+## 🛠️ Tools & Technologies  
+
+![Nmap](https://img.shields.io/badge/Tool-Nmap-blue)  
+![Splunk](https://img.shields.io/badge/Tool-Splunk-lightgrey)  
+![ELK](https://img.shields.io/badge/Tool-ELK_Stack-yellow)  
+![OWASP](https://img.shields.io/badge/Tool-OWASP_Juice_Shop-orange)  
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-blueviolet)  
+
+---
+
+## 🌟 About Me  
+
+I’m transitioning into cybersecurity with a strong foundation in **analysis, problem-solving, and continuous learning**. My projects reflect real-world security workflows, from risk assessment and monitoring to remediation and secure coding awareness.  
+
+- 💻 Interested in **threat detection, incident response, and security analysis**.  
+- 📚 Currently fininshing up the Coursera Googe Cybersecurity Analyst Certification while studying for **CompTIA Security+**.  
+- 🌐 Exploring ways to connect security with real-world business needs.  
+
+---
+
+## 📬 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mystiebluz)  
+- 🐙 [GitHub](https://github.com/mystiebluz)  
+- ✉️ (mystiebluz@gmail.com)  
+
+---
+✨ Thanks for visiting my portfolio! I’m excited to keep growing, and in the next few months I’ll be adding more projects in **threat hunting, vulnerability management, and incident reporting**. Stay tuned 🚀  
 
 
