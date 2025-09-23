@@ -10,7 +10,7 @@
 <br>
 
 
-Greetings, I'm [Misty Smith](https://mystiebluz.github.io/md-techie/), Currently exploring the world of Cybersecurity Analytics, building hands-on projects in threat detection, log analysis, and security best practices. This space is where I share my learning journey and growth—welcome, and feel free to connect or explore my work!
+Greetings, I'm [Misty Smith](https://www.linkedin.com/in/mystiebluz/), Currently exploring the world of Cybersecurity Analytics, building hands-on projects in threat detection, log analysis, and security best practices. This space is where I share my learning journey and growth—welcome, and feel free to connect or explore my work!
 
 
 
