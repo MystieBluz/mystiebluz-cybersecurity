@@ -1,4 +1,4 @@
-#### <div align="right"><em>...strolling through the beautiful, chaotic world that is web development.</em></div> 
+#### <div align="right"><em> FUTURE CYBERSECURITY ANALYST</em></div> 
 <!-- Main header image -->
 <div id="header" align="center">
   <img src="https://tenor.com/view/aesthetic-room-gif-22487936.gif" width="5000" height="550">
