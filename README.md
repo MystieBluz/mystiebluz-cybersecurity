@@ -1,4 +1,4 @@
-# 🔐 MystieBluz Cybersecurity Portfolio  
+# 🔐 Cybersecurity Portfolio  
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Cybersecurity-blueviolet)
 ![Beginner Projects](https://img.shields.io/badge/Level-Beginner-blue)
