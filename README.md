@@ -20,6 +20,17 @@ Welcome! 👋 I’m building my career in **Cybersecurity Analysis**, showcasing
 
 ---
 
+### 🐧💾 [Linux & SQL Security Practice](./linux-sql-security/README.md)  
+
+![Beginner Project](https://img.shields.io/badge/Level-Beginner-blue)
+![Portfolio Project](https://img.shields.io/badge/Portfolio-Yes-purple)
+
+- Set up a **Linux virtual machine** with MySQL to practice secure user access, permissions, and password policies.  
+- Conducted vulnerability testing by safely simulating **SQL injection** and identifying misconfigurations in a local environment.  
+- Hardened the system and database: enforced least privilege access, strong passwords, and applied Linux firewall rules to protect MySQL services.  
+
+---
+
 ### 📊 [Security Log Analysis & SIEM Simulation](./siem-log-analysis/README.md)  
 ![Splunk](https://img.shields.io/badge/Tool-Splunk-lightgrey)
 
