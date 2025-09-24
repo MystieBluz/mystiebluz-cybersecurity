@@ -16,12 +16,9 @@ Each project is documented like a professional case study — with objectives, m
 ![Portfolio Project](https://img.shields.io/badge/Portfolio-Yes-purple)
 ![CompTIA Security+ Practice](https://img.shields.io/badge/CompTIA%20Security+-Practice-yellow)
 
-- Conducted a vulnerability assessment of a home Wi-Fi network (subnet `192.168.1.0/24`) targeting the main router (`192.168.1.254`) and other connected devices using **Nmap**.  
+- Conducted a vulnerability assessment of a home Wi-Fi network (subnet `192.168.1.0/24`) targeting the main router (`192.168.1.254`) and connected devices using **Nmap**, documenting open ports and risky services.  
 - Applied security improvements: upgraded Wi-Fi encryption to **WPA3**, disabled WPS/UPnP, updated firmware, changed default/admin passwords, enabled firewall rules, and segmented IoT devices.  
-- Documented **Before/After Security Snapshot** to track improvements in open ports and risky services.  
-- Validated improvements through post-hardening scans, confirming that only essential services remained accessible.  
-- Key outcomes: reduced attack surface by ~70%, strengthened Wi-Fi security, and gained awareness of IoT and network hardening best practices.  
-- Next steps / future improvements: explore medium-risk Nmap scripts, expand portfolio with additional home network projects, and continue practicing automated vulnerability assessments.
+- Validated improvements through post-hardening scans, reducing the attack surface by ~70% and confirming only essential services remained accessible.  
 
 ### 📊 [Security Log Analysis & SIEM Simulation](./siem-log-analysis/README.md)  
 - Collected Windows logs and ingested them into **Splunk Free**.  
