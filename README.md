@@ -14,9 +14,10 @@ Welcome! 👋 I’m building my career in **Cybersecurity Analysis**, showcasing
 ![Safe Mode](https://img.shields.io/badge/Mode-Safe%20Mode-green)
 ![CompTIA Security+ Practice](https://img.shields.io/badge/CompTIA%20Security+-Practice-yellow)
 
-- Conducted a vulnerability assessment of a home Wi-Fi network (subnet `192.168.1.0/24`) targeting the main router (`192.168.1.254`) using **Nmap**.  
+- Conducted a vulnerability assessment of a home Wi-Fi network (subnet 192.168.1.0/24) targeting the main router (192.168.1.xxx) using **Nmap**.  
 - Applied security improvements: upgraded encryption to **WPA3**, disabled WPS/UPnP, updated firmware, enforced strong passwords, enabled firewall rules, and segmented IoT devices.  
-- Validated improvements via post-hardening scans, reducing attack surface by ~70%.  
+- Validated improvements via post-hardening scans, reducing the attack surface by ~70%.
+- Inventory included personal devices (laptops, phones, tablets) and smart home/IoT devices (fridge, smart hub, plugs, cameras) — all IPs anonymized for privacy.
 
 ---
 
