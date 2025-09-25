@@ -7,7 +7,7 @@
 ![CompTIA Security+ Practice](https://img.shields.io/badge/CompTIA%20Security+-Practice-yellow)
 
 ## 📌 Objective  
-Assess and improve the security of my home Wi-Fi network (subnet `192.168.1.0/24`). The goal was to **identify vulnerabilities**, apply fixes, and validate improvements on my main router (`192.168.1.254`) and other connected devices.  
+Assess and improve the security of my home Wi-Fi network (subnet `192.168.1.0/24`). The goal was to **identify vulnerabilities**, apply fixes, and validate improvements on my main router and other connected devices.  
 
 ---
 
@@ -15,10 +15,10 @@ Assess and improve the security of my home Wi-Fi network (subnet `192.168.1.0/24
 
 1. **Network Mapping:**  
    - Ran `nmap -sn 192.168.1.0/24` to discover all devices on the subnet.  
-   - Identified open ports and services on the target device (`192.168.1.254`) using:  
+   - Identified open ports and services on the target device using:  
      ```bash
-     nmap -sT -sV --top-ports 1000 192.168.1.254
-     nmap --script default -sV 192.168.1.254
+     nmap -sT -sV --top-ports 1000 <Router_IP>
+     nmap --script default -sV <Router_IP>
      ```  
 
 2. **Vulnerability Scanning:**  
@@ -35,7 +35,7 @@ Assess and improve the security of my home Wi-Fi network (subnet `192.168.1.0/24
    - Closed unnecessary ports (Telnet, FTP) and secured remaining services.  
 
 4. **Validation:**  
-   - Re-scanned target device and subnet with Nmap to confirm reduced attack surface.  
+   - Re-scanned router and subnet with Nmap to confirm reduced attack surface.  
    - Verified that only essential services remained accessible.  
 
 ---
@@ -44,22 +44,48 @@ Assess and improve the security of my home Wi-Fi network (subnet `192.168.1.0/24
 
 | Device | Open Ports (Before) | Risky Services (Before) | Open Ports (After) | Risky Services (After) |
 |--------|------------------|-----------------------|-----------------|----------------------|
-| 192.168.1.254 | [FILL IN] | [FILL IN] | [FILL IN] | [FILL IN] |
+| Router | [FILL IN] | [FILL IN] | [FILL IN] | [FILL IN] |
 | IoT Devices | [FILL IN] | [FILL IN] | [FILL IN] | [FILL IN] |
 
 ---
 
 ## 📊 Findings  
 
-- **Before:**  
-  - Target device (`192.168.1.254`) had multiple unnecessary open ports (e.g., Telnet, FTP).  
-  - Some IoT devices were running outdated firmware.  
-  - Weak/default passwords detected on a few devices.  
+### Nmap Scan Overview  
+- **Subnet Scanned:** `192.168.1.0/24`  
+- **Total IPs Scanned:** 256  
+- **Hosts Up:** 18  
 
-- **After:**  
-  - Only HTTPS (443) and DNS (53) ports remained open.  
-  - Firmware updated on all devices.  
-  - Strong passwords implemented across all devices.  
+### Device Categories  
+- **Known personal devices:**  
+  - 192.168.1.xxx → Laptop (Apple)  
+  - 192.168.1.xxx → iPhone (Apple, Private MAC enabled)  
+  - 192.168.1.xxx → iPad (Apple, Private MAC enabled)  
+  - 192.168.1.xxx → Workstation/PC  
+
+- **Smart home/IoT devices:**  
+  - 192.168.1.xxx → Samsung FamilyHub (Smart refrigerator)  
+  - 192.168.1.xxx → MyQ Garage Opener  
+  - 192.168.1.xxx → Vivint SmartHub  
+  - 192.168.1.xxx → Space Monkey (cloud storage)  
+  - 192.168.1.xxx → Tuya Smart plug/bulb/camera  
+  - 192.168.1.xxx → Shenzhen Trolink IoT device  
+  - 192.168.1.xxx → Samsung Smart TV/Appliance  
+
+- **Networking hardware:**  
+  - 192.168.1.xxx → AT&T device (Commscope)  
+  - 192.168.1.xxx → Router/Modem (Commscope)  
+
+- **Peripheral/Other devices:**  
+  - 192.168.1.xxx → HP Printer  
+  - 192.168.1.xxx → Cloud Network Technology (likely phone/IoT)  
+  - 192.168.1.xxx → PC/Laptop (Intel)  
+  - 192.168.1.xxx → Cloud Network Technology (mobile/IoT)  
+
+### Security Observations  
+- **IoT Risks:** Multiple IoT devices (smart hub, fridge, plugs) increase the attack surface.  
+- **Unknown MAC Vendors:** Several devices had randomized or unlisted MACs, common in modern phones with “Private Wi-Fi Address” enabled.  
+- **Router Exposure:** Router confirmed as gateway; securing it with strong admin credentials is critical.  
 
 ---
 
@@ -95,4 +121,5 @@ Assess and improve the security of my home Wi-Fi network (subnet `192.168.1.0/24
 - Study automated vulnerability assessment tools for small networks.  
 - Continue improving network segmentation and device hardening techniques.  
 - Stay updated on IoT and router security best practices.  
+
 
