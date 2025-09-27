@@ -14,9 +14,10 @@ Welcome! 👋 I’m building my career in **Cybersecurity Analysis**, showcasing
 ![Safe Mode](https://img.shields.io/badge/Mode-Safe%20Mode-green)
 ![CompTIA Security+ Practice](https://img.shields.io/badge/CompTIA%20Security+-Practice-yellow)
 
-- Conducted a vulnerability assessment of a home Wi-Fi network (subnet `192.168.1.0/24`) targeting the main router (`192.168.1.254`) using **Nmap**.  
+- Conducted a vulnerability assessment of a home Wi-Fi network (subnet 192.168.1.0/24) targeting the main router (192.168.1.xxx) using **Nmap**.  
 - Applied security improvements: upgraded encryption to **WPA3**, disabled WPS/UPnP, updated firmware, enforced strong passwords, enabled firewall rules, and segmented IoT devices.  
-- Validated improvements via post-hardening scans, reducing attack surface by ~70%.  
+- Validated improvements via post-hardening scans, reducing the attack surface by ~70%.
+- Inventory included personal devices (laptops, phones, tablets) and smart home/IoT devices (fridge, smart hub, plugs, cameras) — all IPs anonymized for privacy.
 
 ---
 
@@ -48,6 +49,41 @@ Welcome! 👋 I’m building my career in **Cybersecurity Analysis**, showcasing
 - Built understanding of **secure coding practices and web application security**.  
 
 ---
+
+### 🔑 [Password Strength Checker](./password-checker/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Built a tool that checks password strength based on complexity rules.  
+- Integrated with the **HaveIBeenPwned API** to check if a password appears in known breaches.  
+- Demonstrates **Python, regex, and API security awareness**.  
+
+---
+
+### 📊 [Log File Analyzer](./log-analyzer/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Parses system/server logs to detect **failed logins and brute-force attempts**.  
+- Flags suspicious IPs and generates a **security report**.  
+- Demonstrates **automation, parsing, and detection skills**.  
+
+---
+
+### 🌐 [Simple Port Scanner](./port-scanner/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Scans an IP address for **open ports and services**.  
+- Demonstrates understanding of **networking fundamentals and reconnaissance**.  
+- Lightweight alternative to Nmap, written in Python.  
+
+---
+
+### 🧪 [Basic Malware Sandbox (Safe Simulation)](./malware-sandbox/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Safely simulates execution of suspicious files (dummy scripts only).  
+- Logs file changes and generates a behavior report.  
+- Demonstrates **malware analysis concepts and process monitoring**.  
+
 
 ## 🛠️ Tools & Technologies  
 
