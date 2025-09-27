@@ -50,6 +50,41 @@ Welcome! 👋 I’m building my career in **Cybersecurity Analysis**, showcasing
 
 ---
 
+### 🔑 [Password Strength Checker](./password-checker/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Built a tool that checks password strength based on complexity rules.  
+- Integrated with the **HaveIBeenPwned API** to check if a password appears in known breaches.  
+- Demonstrates **Python, regex, and API security awareness**.  
+
+---
+
+### 📊 [Log File Analyzer](./log-analyzer/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Parses system/server logs to detect **failed logins and brute-force attempts**.  
+- Flags suspicious IPs and generates a **security report**.  
+- Demonstrates **automation, parsing, and detection skills**.  
+
+---
+
+### 🌐 [Simple Port Scanner](./port-scanner/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Scans an IP address for **open ports and services**.  
+- Demonstrates understanding of **networking fundamentals and reconnaissance**.  
+- Lightweight alternative to Nmap, written in Python.  
+
+---
+
+### 🧪 [Basic Malware Sandbox (Safe Simulation)](./malware-sandbox/README.md)  
+![Python](https://img.shields.io/badge/Language-Python-blue)  
+
+- Safely simulates execution of suspicious files (dummy scripts only).  
+- Logs file changes and generates a behavior report.  
+- Demonstrates **malware analysis concepts and process monitoring**.  
+
+
 ## 🛠️ Tools & Technologies  
 
 ![Nmap](https://img.shields.io/badge/Tool-Nmap-blue)  
